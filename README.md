@@ -8,4 +8,4 @@ Download Jupyter Notebook using the link below:
 
 https://jupyter.org/install
 
-After downloading, set up Jupyter, and proceed with the code from HDR-Code
+After downloading, set up Jupyter, and proceed with the code provided in #HDR-Code
