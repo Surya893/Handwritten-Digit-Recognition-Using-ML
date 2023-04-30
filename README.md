@@ -31,7 +31,3 @@ model = MLPClassifier(hidden_layer_sizes=(50,), max_iter=10, alpha=1e-4,
 model.fit(X_train, y_train)
 
 ```
-
-For Video Explanation for writing, running this code, and this entire project, check out the video I made using the link below:
-
-https://www.loom.com/share/5fbc9a6bcfb84ceb8eb70ab10f74ea7f
